@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsync",
+        "uuid": 12760428,
+        "checksum": "leklli"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
